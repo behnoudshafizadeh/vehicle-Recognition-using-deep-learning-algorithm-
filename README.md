@@ -1,4 +1,4 @@
-# vehicle-Recognition-using-deep-learning-algorithm-
+# vehicle-Recognition-using-deep-learning-algorithm
 vehicle recognition using YOLO-V3
 
 ## Discription
